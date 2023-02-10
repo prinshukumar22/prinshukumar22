@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prinshukumar22
 - 👀 I’m interested in web development and different frameworks
-- 🌱 I’m currently learning DSA and JS
+- 🌱 I’m currently learning DSA and ReactJS
 - 💞️ I’m looking to contribute to open source 
 - 📫 How to reach me -> prinshu2003@gmail.com
 
