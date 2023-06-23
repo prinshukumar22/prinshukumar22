@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prinshukumar22
-- 👀 I’m interested in web development and different frameworks
-- 🌱 I’m currently learning DSA and ReactJS
-- 💞️ I’m looking to contribute to open source 
+- 👀 I love to develop beautiful and engaging websites and give brilliant user experiences
+- 🌱 I’m currently looking for internships to gain practical experience
+- 💞️ I’m currently learning about NodeJs and ExpressJs
 - 📫 How to reach me -> prinshu2003@gmail.com
 
 <!---
